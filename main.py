@@ -1,3 +1,7 @@
+# Input Validation Starter
+# 12/10/24
+# Bryce Perron & Josh Phillips
+
 string = input("Enter a string: ")
 string_len = len(string)
 
